@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DBeg</string>
+    <string name="enter_name">Enter name</string>
+    <string name="enter_number">Enter number</string>
+    <string name="save">Save</string>
+    <string name="view_all">View All</string>
+</resources>
